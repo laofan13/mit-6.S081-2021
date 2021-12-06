@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/parallels/MIT/6.828/xv6-labs-2021/kernel",
+            "binaryPath": "/home/parallels/MIT/6.828/xv6-labs-2021/kernel/kernel",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "riscv.h": "c"
+    }
+}

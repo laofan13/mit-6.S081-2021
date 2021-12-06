@@ -80,6 +80,6 @@ main(int argc, char *argv[])
     exit(0);
   }
   for(i=1; i<argc; i++)
-    ls(argv[i]);
+    ls(argv[1]);
   exit(0);
 }
